@@ -1,0 +1,6 @@
+rootProject.name = 'saron-authorization-service'
+include 'authorization-service-controller'
+include 'authorization-service-flow'
+include 'authorization-service-persistance'
+include 'authorization-service-model'
+
